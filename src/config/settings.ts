@@ -37,7 +37,7 @@ if (ENV_MODE === 'dev') {
   typeOrmDb1.host = '안알랴줌';
   typeOrmDb1.port = 3306;
   typeOrmDb1.username = '안알랴줌';
-  typeOrmDb1.password = 'jon안알랴줌gjin2';
+  typeOrmDb1.password = '안알랴줌';
   typeOrmDb1.database = 'test';
   typeOrmDb1.synchronize = false;
   typeOrmDb1.logging = false;
